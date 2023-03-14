@@ -24,7 +24,7 @@
 
 **To run the example test**
 
-    Yarn test
+    yarn test
 
 # That's it you're done :D
 ![Shake Kaninayuta GIF - Shake Kaninayuta Nayutakani GIFs](https://media.tenor.com/3S9l9HzhGVcAAAAC/shake-kaninayuta.gif)
